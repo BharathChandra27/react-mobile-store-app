@@ -1,4 +1,4 @@
-This is an e-commerce mobile store application developed using react. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an e-commerce mobile store application developed using react. See this deployed site at[mobilestoreapp.com](https://mobilestoreapp.netlify.com/) This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
